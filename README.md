@@ -24,7 +24,7 @@ _I might do almost any online coding task for a value-less freebie, if it sounds
 
 ### :exclamation: Pronouns
 
-He/him, הוא/הם.
+He/him/his, הוא/שלו.
 
 ### :tongue: Languages
 
