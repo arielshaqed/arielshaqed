@@ -26,6 +26,11 @@ _I might do almost any online coding task for a value-less freebie, if it sounds
 
 He/him/his, הוא/שלו.
 
+### :airplane: Tourism
+
+I like to travel.  Right now I cannot, so here's a 2000 year old drawing of a hyena.
+<img src="https://github.com/arielshaqed/arielshaqed/raw/main/images/beit-guvrin-hyena.jpg" alt="hyena from burial cave in Beit Guvrin" width="90%"/>
+
 ### :tongue: Languages
 
 In chronological order, with "\*" indicating proficiency: \*Hebrew, \*English, BASIC, Pascal, \*C, Lisp, Scheme, Forth, Fortran77, Perl, C++, \*Java, Python, \*JavaScript, \*TypeScript, Go.  Smatterings of many other human and machine language.
