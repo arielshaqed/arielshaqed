@@ -33,7 +33,7 @@ I like to travel.  Right now I cannot, so here's a 2000 year old drawing of a hy
 
 ### :tongue: Languages
 
-In chronological order, with "\*" indicating proficiency: \*Hebrew, \*English, BASIC, Pascal, \*C, Lisp, Scheme, Forth, Fortran77, Perl, C++, \*Java, Python, \*JavaScript, \*TypeScript, Go.  Smatterings of many other human and machine language.
+In chronological order, with "\*" indicating proficiency: \*Hebrew, \*English, BASIC, Pascal, \*C, Lisp, Scheme, Forth, Fortran77, Perl, C++, \*Java, Python, \*JavaScript, \*TypeScript, Go, Scala.  Smatterings of many other human and machine language.
 
 ### :scroll: ariels' Law
 
