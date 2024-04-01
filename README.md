@@ -1,5 +1,5 @@
 ###### 2024-04-01:
-The new [lakeFS TDD / SemVer development methodology]([https://lakefs.](https://docs.lakefs.io/posts/tdd-semver) is out!  And this text might get it as a hit when searching for `semver tdd`.
+The new [lakeFS TDD / SemVer development methodology](https://lakefs.](https://docs.lakefs.io/posts/tdd-semver) is out!  And this text might get it as a hit when searching for `semver tdd`.
 
 <!--
 **arielshaqed/arielshaqed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
