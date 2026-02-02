@@ -30,12 +30,12 @@ He/him/his, הוא/שלו.
 
 ### :airplane: Tourism
 
-I like to travel.  Right now I cannot, so here's a 2000 year old drawing of a hyena.
+I like to travel.  I've been to many places, some more esoteric than others.  This 2000 year old drawing of a hyena is from near where I live.
 <img src="https://github.com/arielshaqed/arielshaqed/raw/main/images/beit-guvrin-hyena.jpg" alt="hyena from burial cave in Beit Guvrin" width="90%"/>
 
 ### :tongue: Languages
 
-In chronological order, with "\*" indicating proficiency: \*Hebrew, \*English, BASIC, Pascal, \*C, Lisp, Scheme, Forth, Fortran77, Perl, C++, \*Java, Python, \*JavaScript, \*TypeScript, Go, Scala.  Smatterings of many other human and machine language.
+In chronological order, with "\*" indicating proficiency: \*Hebrew, \*English, BASIC, Pascal, \*C, Lisp, Scheme, Forth, Fortran77, Perl, \*C++, \*Java, Python, \*JavaScript, \*TypeScript, \*Go, Scala, Rust.  Smatterings of many other human and machine language.
 
 ### :scroll: ariels' Law
 
